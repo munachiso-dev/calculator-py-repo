@@ -9,7 +9,7 @@ A simple command-line calculator built with Python
 - Visual Studio Code
 
 ## How to Run
-1. Clonoe the respository to your local machine:
+1. Clone the respository to your local machine:
 '''bash git clone
 https://github.com/munachiso-dev/calculator-py-repo
 ## Demo
